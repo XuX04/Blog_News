@@ -1,8 +1,10 @@
 [
     {
+        "url":"attackOnTitan",
         "titolo": "ATTACK ON TITAN"
     },
     {
+        "url":"onePiece",
         "titolo": "ONE PIECE"
     }
 ]
