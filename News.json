@@ -1,10 +1,10 @@
 [
     {
-        "url":"attackOnTitan",
+        "indirizzo":"attackOnTitan",
         "titolo": "ATTACK ON TITAN"
     },
     {
-        "url":"onePiece",
+        "indirizzo":"onePiece",
         "titolo": "ONE PIECE"
     }
 ]
