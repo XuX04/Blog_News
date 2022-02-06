@@ -118,5 +118,13 @@
         "quantita": 2,
         "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41btb9bp4+L._SX324_BO1,204,203,200_.jpg",
         "prezzo_euro": "8.90"
+    },
+    {
+        "ISBN": "9788893814508",
+        "titolo": "Harry Potter e la Pietra Filosofale",
+        "autori": "J. K. Rowling",
+        "quantita": 2,
+        "copertina_url": "https://images-na.ssl-images-amazon.com/images/I/41btb9bp4+L._SX324_BO1,204,203,200_.jpg",
+        "prezzo_euro": "8.90"
     }
 ]
