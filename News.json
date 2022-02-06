@@ -1,10 +1,12 @@
 [
     {
         "indirizzo": "attackOnTitan",
-        "titolo": "ATTACK ON TITAN"
+        "titolo": "ATTACK ON TITAN",
+        "descrizione": "lorem"
     },
     {
         "indirizzo": "onePiece",
-        "titolo": "ONE PIECE"
+        "titolo": "ONE PIECE",
+        "descrizione": "lorem"
     }
 ]
